@@ -11,7 +11,7 @@ Hi 👋, I'm Shalbuz
 </h1>
 
 <h3 align="center">
-Aspiring .NET Backend Developer from Azerbaijan 🇦🇿
+Junior .NET Backend Developer from Azerbaijan 🇦🇿
 </h3>
 
 <p align="center">
