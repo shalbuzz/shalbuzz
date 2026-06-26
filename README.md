@@ -93,28 +93,6 @@ Status   →  Open to work ✅
 
 ---
 
-### 🚀 Featured Projects
-
-> 🔨 Projects coming soon — follow to stay updated!
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`[ ]` Project Alpha**  
-<sub>ASP.NET Core · EF Core · SQL Server</sub>  
-<sub>🔨 In development</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**`[ ]` Project Beta**  
-<sub>Clean Architecture · REST API · Docker</sub>  
-<sub>🔨 In development</sub>
-
-</td>
-</tr>
-</table>
 
 ---
 
