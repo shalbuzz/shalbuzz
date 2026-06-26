@@ -27,7 +27,7 @@ var developer = new Developer
     Location   = "Azerbaijan 🇦🇿",
     Learning   = new[] { "Clean Architecture", "Docker", "Azure" },
     Goal       = "Build scalable and maintainable backend systems",
-    OpenTo     = "Trainee / Junior .NET opportunities"
+   
 };
 ```
 
@@ -56,15 +56,7 @@ var developer = new Developer
 
 ---
 
-## 📌 Featured Projects
 
-> 🚧 Actively working on projects — check back soon!
-
-| Project | Stack | Status |
-|:--------|:------|:------:|
-| _Coming soon_ | ASP.NET Core · EF Core · SQL Server | 🔨 In progress |
-
----
 
 ## 📊 GitHub Stats
 
