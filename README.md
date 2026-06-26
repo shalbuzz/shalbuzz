@@ -1,4 +1,18 @@
-# Hi there 👋, I'm Shalbuz
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shalbuz+%F0%9F%91%8B;Aspiring+.NET+Developer;Building+Backend+Applications;Always+Learning+Something+New" />
+</p>
+
+<h1 align="center">
+Hi 👋, I'm Shalbuz
+</h1>
+
+<h3 align="center">
+Aspiring .NET Backend Developer from Azerbaijan 🇦🇿
+</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shalbuzz&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ## 💻 About Me
 
@@ -10,7 +24,7 @@ I enjoy building backend applications with C# and ASP.NET Core while continuousl
 - 💼 Looking for: .NET Trainee / Junior opportunities
 - 🎯 Goal: Build scalable and maintainable backend applications
 
-## 🛠 Tech Stack
+## ⚒️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -27,14 +41,32 @@ I enjoy building backend applications with C# and ASP.NET Core while continuousl
 
 Coming soon...
 
-## 📫 Contact
+## 🌐 Connect with me
 
-- LinkedIn: (add later)
-- Email: (add later)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shalbuz-aliverdiyev-909628365/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:rovshannashvor@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/aliverdiyevvs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
+  </a>
+</p>
+
   
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shalbuzz&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalbuzz&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shalbuzz&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
