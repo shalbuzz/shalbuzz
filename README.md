@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-.NET%20Trainee%20%7C%20Junior-success?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shalbuz+%F0%9F%91%8B;Junior+.NET+Developer;Building+Backend+Applications;Always+Learning+Something+New" />
 </p>
 
