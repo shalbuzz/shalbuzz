@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Shalbuz
 
-<!--
-**shalbuzz/shalbuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+I'm an Junior .NET Backend Developer from Azerbaijan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building backend applications with C# and ASP.NET Core while continuously improving my software engineering skills.
+
+- 🌱 Currently learning: Clean Architecture, Docker, Azure
+- 💼 Looking for: .NET Trainee / Junior opportunities
+- 🎯 Goal: Build scalable and maintainable backend applications
+
+## 🛠 Tech Stack
+
+- C#
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- LINQ
+- Git & GitHub
+- REST APIs
+- Visual Studio
+- Postman
+
+## 📌 Featured Projects
+
+Coming soon...
+
+## 📫 Contact
+
+- LinkedIn: (add later)
+- Email: (add later)
