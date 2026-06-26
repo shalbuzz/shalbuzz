@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-.NET%20Trainee%20%7C%20Junior-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-%20%7C%20Work-success?style=for-the-badge" />
 </p>
 
 <p align="center">
